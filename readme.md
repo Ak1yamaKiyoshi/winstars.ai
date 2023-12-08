@@ -16,9 +16,9 @@ This approach was chosen because the ratio of pixels of ships to non-ships is ve
  
 # Credits 
 It is also important to note these notebooks that helped in completing this task and understanding it.
-https://www.kaggle.com/code/iafoss/unet34-dice-0-87
-https://www.kaggle.com/code/iafoss/unet34-submission-tta-0-699-new-public-lb
-https://www.kaggle.com/code/julian3833/4-exploring-public-models
-https://www.kaggle.com/code/inversion/run-length-decoding-quick-start
-https://www.kaggle.com/code/iafoss/fine-tuning-resnet34-on-ship-detection
-https://www.kaggle.com/code/julian3833/3-basic-exploratory-analysis
+- https://www.kaggle.com/code/iafoss/unet34-dice-0-87
+- https://www.kaggle.com/code/iafoss/unet34-submission-tta-0-699-new-public-lb
+- https://www.kaggle.com/code/julian3833/4-exploring-public-models
+- https://www.kaggle.com/code/inversion/run-length-decoding-quick-start
+- https://www.kaggle.com/code/iafoss/fine-tuning-resnet34-on-ship-detection
+- https://www.kaggle.com/code/julian3833/3-basic-exploratory-analysis
