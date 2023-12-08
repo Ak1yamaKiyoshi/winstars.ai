@@ -9,7 +9,6 @@ This approach was chosen because the ratio of pixels of ships to non-ships is ve
 
 # Setup 
 - python version: Python 3.6.4 :: Anaconda custom (64-bit)
-- Run pipenv enviroment with `pipenv shell`
 - install all the libraries from requirements.txt
 - [Download weights](https://drive.google.com/file/d/1GXtzxA8plwZEfGU5_aoJuGTNsj5WpMSD/view?usp=sharing) and put in directory `notebooks/Resnet34_lable_384_1.h5`
 - Download dataset from task and put it in directory `./input/airbus-ship-detection/ <files>`
