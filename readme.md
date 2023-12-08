@@ -1,5 +1,5 @@
 # Implementation 
-ResNet34 was used as a decoder for the U-net network architecture. 
+ResNet34 was used as a encoder for the U-net network architecture. 
 The network is trained on images of size 384. 
 In the future, it can be trained to a larger size.
 <br> 
